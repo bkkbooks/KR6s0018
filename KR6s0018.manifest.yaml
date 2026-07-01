@@ -1,0 +1,897 @@
+canonical_identifier: bkk:krp/KR6s0018/v1
+canonical_location: https://kanripo.org/bkk/KR6s0018/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 翻梵語
+  identifiers:
+    alt_id:
+    - T54n2130
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T54/T54n2130.xml
+    old_id: T54n2130
+  edition:
+    short: bkk
+editions:
+- short: 原
+  label: 原
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 甲
+  label: 甲
+  source_xml_id: wit2
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0018_000.yaml, hash: 'sha256:9444322cf8c248d950c946abab1e7af627fe3653c46eb6692ce5be678713369c'}
+  - {seq: 1, filename: KR6s0018_001.yaml, hash: 'sha256:ae0148acb9f55eba40ccbcead663806389d1716cf574d432f177075fec91a0d3'}
+  - {seq: 2, filename: KR6s0018_002.yaml, hash: 'sha256:ff1d53b11ae8013950d00ce27ac1018b92f69bf10e5558cfca09346f4c1f6af2'}
+  - {seq: 3, filename: KR6s0018_003.yaml, hash: 'sha256:eef5035b8b8b7eb41cc854fd87235fb7dcab20881b98f1e30aaff25055d21849'}
+  - {seq: 4, filename: KR6s0018_004.yaml, hash: 'sha256:7bbaa383c266831e52e43df8a2489acafcf25c2ac92034c0c874b2e7cc0c35a1'}
+  - {seq: 5, filename: KR6s0018_005.yaml, hash: 'sha256:bca3932a6c97cd6097451e41d699360cfd967ec00521cf027df7eda93b2af54b'}
+  - {seq: 6, filename: KR6s0018_006.yaml, hash: 'sha256:f2a27cba3b95f9fa3ea055d698e72d2498178e357eb6867dfd60bc5c99778122'}
+  - {seq: 7, filename: KR6s0018_007.yaml, hash: 'sha256:202b56d448bdce02fe011a292fc756fd86943c16613265db9a0721a18b9e567b'}
+  - {seq: 8, filename: KR6s0018_008.yaml, hash: 'sha256:1a0ffd299bbd10797b48842d797753297f15608f6cbe26927c98d0e9e32b868b'}
+  - {seq: 9, filename: KR6s0018_009.yaml, hash: 'sha256:33e5d6794ca7fd59b2ff75a554ef64cc1a8a75a6f320762da8b5aea93e53ec28'}
+  - {seq: 10, filename: KR6s0018_010.yaml, hash: 'sha256:a4cea6bc80a87e2fd1c01bbbfc7a91b79e9178a3fe967c615fa751540ccdc76c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6s0018_000.markers.yaml, hash: 'sha256:99316e8b3666d276e3423f57590c137a500bfed80dc97f51d59ec02132fc2c06'}
+  - {seq: 1, role: markers, filename: assets/KR6s0018_001.markers.yaml, hash: 'sha256:9b2cb5062e2f89e55252d31f9f737f82c566b732e9c78a573fbd033fbd1cca27'}
+  - {seq: 2, role: markers, filename: assets/KR6s0018_002.markers.yaml, hash: 'sha256:2e91aa3811bb3d7ab5e45da9f462617d03aa636c897329f520d9e09e93a92730'}
+  - {seq: 3, role: markers, filename: assets/KR6s0018_003.markers.yaml, hash: 'sha256:45bb72f413e75e835b9704b4a39e84df168bf3c0198c4b693871dee7a2f88ee6'}
+  - {seq: 4, role: markers, filename: assets/KR6s0018_004.markers.yaml, hash: 'sha256:2edc865617b38e0575169a79b5b59b83f91ecee2e27a4a97b98ce801c7ddfdcc'}
+  - {seq: 5, role: markers, filename: assets/KR6s0018_005.markers.yaml, hash: 'sha256:49c2bdd38a4500e60ed8208fa11c206a02be7b6dd394b8e483422b0bf0f995d2'}
+  - {seq: 6, role: markers, filename: assets/KR6s0018_006.markers.yaml, hash: 'sha256:81357fd1afe9ae079b0c51e983949af4ef80d1b9486dd1d8aadc5e4281d85929'}
+  - {seq: 7, role: markers, filename: assets/KR6s0018_007.markers.yaml, hash: 'sha256:afb2fe304b4a36c3d7243da7067e1023cacd1f6d20f6b231ed741dae661e6b90'}
+  - {seq: 8, role: markers, filename: assets/KR6s0018_008.markers.yaml, hash: 'sha256:717366b13c0857c161e214302daaf234c8896c3dddddf681b4ced673915beec1'}
+  - {seq: 9, role: markers, filename: assets/KR6s0018_009.markers.yaml, hash: 'sha256:9759f454db3b797f92630d47bcd5b720c3d93c7f203f295f03bf7b9223144544'}
+  - {seq: 10, role: markers, filename: assets/KR6s0018_010.markers.yaml, hash: 'sha256:d48ad75eb8d2d0ae0fe782b444c885769c69e5ead396d418eb345dad42ec2995'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6s0018_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 翻梵語
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0018_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 9968
+  label: 翻梵語卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0018_T_001-mulu-1
+    span:
+    - body
+    - 29
+    - 29
+  label: 1 佛號
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0018_T_001-mulu-2
+    span:
+    - body
+    - 255
+    - 255
+  label: 2 佛名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0018_T_001-mulu-3
+    span:
+    - body
+    - 1936
+    - 1936
+  label: 3 佛功德名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0018_T_001-mulu-4
+    span:
+    - body
+    - 2184
+    - 2184
+  label: 4 法名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0018_T_001-mulu-5
+    span:
+    - body
+    - 4547
+    - 4547
+  label: 5 外道法名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0018_T_001-mulu-6
+    span:
+    - body
+    - 5316
+    - 5316
+  label: 6 雜法名
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0018_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 10202
+  label: 翻梵語卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0018_T_002-mulu-1
+    span:
+    - body
+    - 31
+    - 31
+  label: 7 菩薩名
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0018_T_002-mulu-2
+    span:
+    - body
+    - 1400
+    - 1400
+  label: 8 菩薩住地名
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0018_T_002-mulu-3
+    span:
+    - body
+    - 1671
+    - 1671
+  label: 9 菩薩觀行名
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0018_T_002-mulu-4
+    span:
+    - body
+    - 1957
+    - 1957
+  label: 10 辟支佛名
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0018_T_002-mulu-5
+    span:
+    - body
+    - 2053
+    - 2053
+  label: 11 比丘名
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0018_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 6788
+  label: 翻梵語卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0018_T_003-mulu-1
+    span:
+    - body
+    - 49
+    - 49
+  label: 12 比丘尼名
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0018_T_003-mulu-2
+    span:
+    - body
+    - 1738
+    - 1738
+  label: 13 沙彌名
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0018_T_003-mulu-3
+    span:
+    - body
+    - 1961
+    - 1961
+  label: 14 沙彌尼名
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0018_T_003-mulu-4
+    span:
+    - body
+    - 2038
+    - 2038
+  label: 15 聲聞德行名
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0018_T_003-mulu-5
+    span:
+    - body
+    - 2723
+    - 2723
+  label: 16 雜觀行名
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0018_T_003-mulu-6
+    span:
+    - body
+    - 3013
+    - 3013
+  label: 17 罪障名
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0018_T_003-mulu-7
+    span:
+    - body
+    - 3406
+    - 3406
+  label: 18 迦絺那衣法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0018_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 5124
+  label: 翻梵語卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0018_T_004-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 19 婆羅門名
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0018_T_004-mulu-2
+    span:
+    - body
+    - 1526
+    - 1526
+  label: 20 剎利名
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0018_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 6802
+  label: 翻梵語卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0018_T_005-mulu-1
+    span:
+    - body
+    - 65
+    - 65
+  label: 21 優婆塞名
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0018_T_005-mulu-2
+    span:
+    - body
+    - 291
+    - 291
+  label: 22 優婆夷名
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0018_T_005-mulu-3
+    span:
+    - body
+    - 793
+    - 793
+  label: 23 仙人名
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0018_T_005-mulu-4
+    span:
+    - body
+    - 1626
+    - 1626
+  label: 24 外道名
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0018_T_005-mulu-5
+    span:
+    - body
+    - 3949
+    - 3949
+  label: 25 大臣名
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0018_T_005-mulu-6
+    span:
+    - body
+    - 4125
+    - 4125
+  label: 26 長者名
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0018_T_005-mulu-7
+    span:
+    - body
+    - 5061
+    - 5061
+  label: 27 居士名
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0018_T_005-mulu-8
+    span:
+    - body
+    - 5335
+    - 5335
+  label: 28 夫人名
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0018_T_005-mulu-9
+    span:
+    - body
+    - 5636
+    - 5636
+  label: 29 女人名
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0018_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 8430
+  label: 翻梵語卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0018_T_006-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 30 雜人名
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0018_T_006-mulu-2
+    span:
+    - body
+    - 8104
+    - 8104
+  label: 31 雜姓名
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0018_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 5952
+  label: 翻梵語卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0018_T_007-mulu-1
+    span:
+    - body
+    - 61
+    - 61
+  label: 32 神名
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0018_T_007-mulu-2
+    span:
+    - body
+    - 1808
+    - 1808
+  label: 33 鬼名
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0018_T_007-mulu-3
+    span:
+    - body
+    - 2709
+    - 2709
+  label: 34 龍名
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0018_T_007-mulu-4
+    span:
+    - body
+    - 3860
+    - 3860
+  label: 35 𠌵名
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0018_T_007-mulu-5
+    span:
+    - body
+    - 4209
+    - 4209
+  label: 36 馬名
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0018_T_007-mulu-6
+    span:
+    - body
+    - 4343
+    - 4343
+  label: 37 雜狩名
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0018_T_007-mulu-7
+    span:
+    - body
+    - 4448
+    - 4448
+  label: 38 鳥名
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0018_T_007-mulu-8
+    span:
+    - body
+    - 4918
+    - 4918
+  label: 39 魚名
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0018_T_007-mulu-9
+    span:
+    - body
+    - 4993
+    - 4993
+  label: 40 蟲名
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0018_T_007-mulu-10
+    span:
+    - body
+    - 5364
+    - 5364
+  label: 41 地獄名
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0018_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 8899
+  label: 翻梵語第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0018_T_008-mulu-1
+    span:
+    - body
+    - 59
+    - 59
+  label: 42 世界名
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0018_T_008-mulu-2
+    span:
+    - body
+    - 436
+    - 436
+  label: 43 國土名
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0018_T_008-mulu-3
+    span:
+    - body
+    - 4366
+    - 4366
+  label: 44 城名
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0018_T_008-mulu-4
+    span:
+    - body
+    - 6099
+    - 6099
+  label: 45 邑名
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0018_T_008-mulu-5
+    span:
+    - body
+    - 6324
+    - 6324
+  label: 46 聚落名
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0018_T_008-mulu-6
+    span:
+    - body
+    - 6834
+    - 6834
+  label: 47 村名
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0018_T_008-mulu-7
+    span:
+    - body
+    - 7927
+    - 7927
+  label: 48 寺舍名
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0018_T_008-mulu-8
+    span:
+    - body
+    - 8227
+    - 8227
+  label: 49 堂舍名
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0018_T_008-mulu-9
+    span:
+    - body
+    - 8429
+    - 8429
+  label: 50 處所名
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0018_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 6397
+  label: 翻梵語卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0018_T_009-mulu-1
+    span:
+    - body
+    - 71
+    - 71
+  label: 51 山名
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0018_T_009-mulu-2
+    span:
+    - body
+    - 1837
+    - 1837
+  label: 52 河名
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0018_T_009-mulu-3
+    span:
+    - body
+    - 2614
+    - 2614
+  label: 53 江名
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0018_T_009-mulu-4
+    span:
+    - body
+    - 2785
+    - 2785
+  label: 54 池名
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0018_T_009-mulu-5
+    span:
+    - body
+    - 3044
+    - 3044
+  label: 55 洲名
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0018_T_009-mulu-6
+    span:
+    - body
+    - 3137
+    - 3137
+  label: 56 地名
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0018_T_009-mulu-7
+    span:
+    - body
+    - 3191
+    - 3191
+  label: 57 水名
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0018_T_009-mulu-8
+    span:
+    - body
+    - 3417
+    - 3417
+  label: 58 火名
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0018_T_009-mulu-9
+    span:
+    - body
+    - 3439
+    - 3439
+  label: 59 風名
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0018_T_009-mulu-10
+    span:
+    - body
+    - 3551
+    - 3551
+  label: 60 薗名
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0018_T_009-mulu-11
+    span:
+    - body
+    - 4164
+    - 4164
+  label: 61 林名
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0018_T_009-mulu-12
+    span:
+    - body
+    - 5054
+    - 5054
+  label: 62 樹名
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0018_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 5817
+  label: 翻梵語卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0018_T_010-mulu-1
+    span:
+    - body
+    - 68
+    - 68
+  label: 63 草名
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0018_T_010-mulu-2
+    span:
+    - body
+    - 358
+    - 358
+  label: 64 香名
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0018_T_010-mulu-3
+    span:
+    - body
+    - 719
+    - 719
+  label: 65 華名
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0018_T_010-mulu-4
+    span:
+    - body
+    - 1862
+    - 1862
+  label: 66 菓名
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0018_T_010-mulu-5
+    span:
+    - body
+    - 2280
+    - 2280
+  label: 67 衣服名
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0018_T_010-mulu-6
+    span:
+    - body
+    - 3523
+    - 3523
+  label: 68 藥名
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0018_T_010-mulu-7
+    span:
+    - body
+    - 3766
+    - 3766
+  label: 69 飲食名
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0018_T_010-mulu-8
+    span:
+    - body
+    - 4480
+    - 4480
+  label: 70 藏名
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0018_T_010-mulu-9
+    span:
+    - body
+    - 4594
+    - 4594
+  label: 71 寶名
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0018_T_010-mulu-10
+    span:
+    - body
+    - 5286
+    - 5286
+  label: 72 時節名
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0018_T_010-mulu-11
+    span:
+    - body
+    - 5585
+    - 5585
+  label: 73 數名
+  type: mulu
+  level: 1
+hash: sha256:18fad7b2e2f703a6516b39aa8f419def790473aa9c901727ce21178f17cf4448
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

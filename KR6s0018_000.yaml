@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6s0018/t/v1/juan/0
+seq: 0
+front:
+  text: 翻梵語今此書也全部十卷飛鳥寺信行之撰集世所希也一日余登醍醐山於光臺院客亭悉曇字記三教指歸行狀記等講述之日儻閲此書深賢師之持本久收箱底蠧魚甚投携歸遂返璧之次借覽游佛國行漢土之思偏難默止因茲令宮野常新即應謄寫功了敢正本文字不分明之趣得而可知耳況又傳寫之本虎變為狗之類亦難免後昆便覽之時得其意以披見可哉知不許他出勿忽勿忽寬保元醉年八月既望東寺定額僧第二席勸修寺淨土院席僧正賢賀俗齒五十八法﨟四十九
+  hash: sha256:ac22fe3ef4cdb1f0026186fba6589d1fc1f94d8f9a393a507a93d0ba05330f19
+  markers:
+  - {type: 序, offset: 0, content: 翻梵語, id: KR6s0018_T_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 翻梵語
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T54/T54n2130.xml
+    old_id: T54n2130
+hash: sha256:9444322cf8c248d950c946abab1e7af627fe3653c46eb6692ce5be678713369c
